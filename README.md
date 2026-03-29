@@ -10,7 +10,7 @@
                                                                                                                                                                             
   ## Tech Stack                                                                                                                                                             
                                                                                                                                                                             
-  Python · PyTorch · TensorFlow · PySpark · Scikit-learn · FastAPI · Docker · SQL · R · Git                                                                                 
+  Python · PyTorch · TensorFlow · PySpark · Scikit-learn · FastAPI · Docker · SQL · R · Git · MLOps                                                                                
                   
   ## Education                                                                                                                                                              
                   
