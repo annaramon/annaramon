@@ -4,9 +4,9 @@
                                                                                                                                                                             
   ## What I Do                                                                                                                                                              
                   
-  - **Sports Analytics AI** — Injury prevention and performance systems for elite football clubs                                                                            
-  - **Clinical AI** — Decision-support tools for neonatal ICUs (reduced dosage errors from 12.49% to 0.03%)
-  - **Teaching** — ML & AI instructor to 100+ students at UPC and at Barça Innovation Hub                                                                                                                    
+  - **Sports Analytics AI** Injury prevention and performance systems for elite football clubs                                                                            
+  - **Clinical AI** Decision-support tools for neonatal ICUs (reduced dosage errors from 12.49% to 0.03%)
+  - **Teaching** ML & AI instructor to 100+ students at UPC and at Barça Innovation Hub                                                                                                                    
                                                                                                                                                                             
   ## Tech Stack                                                                                                                                                             
                                                                                                                                                                             
